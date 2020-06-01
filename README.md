@@ -1,2 +1,4 @@
 # FollowResearch
-Dont forget to look them
+Don't forget to look them
+
+### How to Write and Publish a Scientific Paper
