@@ -7,10 +7,7 @@ Don't forget to look them
 https://www.youtube.com/watch?v=QWdYWwW6OAE&list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV&index=7
 
 
-#### Efficient image loading
+#### Efficient image loading (OpenCV - Pillow - Pillow-SIMD- TurboJpeg) (LMDB - TFRecords)
 https://www.learnopencv.com/efficient-image-loading/?ck_subscriber_id=797525929
-    *OpenCV
-    *Pillow
-    *Pillow-SIMD
-    *TurboJpeg
+    
 
